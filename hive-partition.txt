@@ -1,4 +1,4 @@
-wget https://github.com/jaimeeyeung/bigdata/raw/master/retailstore_large.zip
+wget https://github.com/jaimeeyeung/bankprospects/raw/main/retailstore_large.zip
 
 unzip retailstore_large.zip
 
